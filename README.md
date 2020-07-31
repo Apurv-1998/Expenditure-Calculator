@@ -40,10 +40,18 @@
     </li>
     <br/><br/>
    <li>
+       <h1> Multi-Threading </h1>
+       <ul>
+         <li> Implemented Using CompletedFuture<T> </li>
+         <li> Multi-Threading Configurated in the AsyncConfig.java file that specifies the number of threads required and the number of threads to be in the blocking queue etc. and finally Initailses the thread using ThreadPoolTaskExecutor. </li>
+ </li>
+ <br/><br/>
+   <li>
   <h1> Dump Folder:- </h1>
     <p> It contains:- </p>
     <ul>
         <li> The database dump </li>
+        <li> The Sample Images Of Threads Executing The Methods </li>
         <li> The sample Input and Output Image of the Api. </li>
     </ul>
     </li>
