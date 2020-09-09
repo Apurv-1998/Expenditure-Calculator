@@ -1,4 +1,4 @@
-<h1> SSM Internship Task </h1>
+<h1> Expenditure Calculator </h1>
 <br/>
 <ol> <h1>About:-</h1>
  <li>   
@@ -20,7 +20,7 @@
 <h3> Method 1</h3>
   <p> Export the project to eclipse and run the project </p>
 <h3> Method 2</h3>
-  <p> Dowload The Project and extract it to any folder
+  <p> Download The Project and extract it to any folder
     <ul>
       <li>Open cmd in that folder</li>
       <li>Run the mvn clean command</li>
